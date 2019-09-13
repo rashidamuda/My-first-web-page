@@ -1,6 +1,6 @@
 # My-first-web-page
 With a little guidance from moringa school
-#### By **{Rashid Amuda}**
+#### By **Rashid Amuda**
 ## This is the first webpage i created.
 ## no set-up or installation required.
 ## No known bugs.
@@ -8,7 +8,7 @@ With a little guidance from moringa school
 ## Support and contact details
 {e-mail,rashid.amuda@gmail.com}
 ### License
-*{MIT License
+*MIT License
 
 Copyright (c) [year] [fullname]
 
@@ -28,5 +28,5 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.}*
-Copyright (c) {2019} **{Rashid Amuda in association with Moringa School}**
+SOFTWARE.*
+Copyright (c) 2019 **Rashid Amuda in association with Moringa School**
